@@ -16,6 +16,7 @@ AI 编程会话的终端管理工具：同时管理多个 Claude Code / Codex �
 | macOS（Apple 芯片：M1/M2/M3/M4…） | `WhatyTerm-版本号-arm64.dmg` |
 | macOS（Intel 芯片） | `WhatyTerm-版本号.dmg` |
 | Windows 10 / 11 | `WhatyTerm.Setup.版本号.exe` |
+| Linux（x64，需已装 tmux） | `WhatyTerm-版本号.AppImage`（下载后 `chmod +x` 再运行） |
 
 `.zip`、`.blockmap`、`latest*.yml` 是自动更新用的文件，手动安装不需要。
 
