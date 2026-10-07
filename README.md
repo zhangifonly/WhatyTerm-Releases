@@ -22,9 +22,9 @@ AI 编程会话的终端管理工具：同时管理 Claude Code、Codex、Cursor
 
 ## 使用许可
 
-个人、非营利、教育等**非商业用途免费使用**，条款见 [LICENSE](LICENSE)（PolyForm Noncommercial 1.0.0）。
-商业用途请到 <https://term.whaty.org> 了解商业授权。
+WhatyTerm 是闭源商业软件，个人版免费。安装和使用即表示同意[《最终用户许可协议》](https://term.whaty.org/eula.html)和[《隐私政策》](https://term.whaty.org/privacy.html)。
+团队与企业版见 <https://term.whaty.org>；问题反馈见 <https://term.whaty.org/support.html>。
 
 ---
 
-WhatyTerm is an AI coding session manager for Claude Code, Codex, Cursor, Kiro and other CLIs. This repository only hosts release binaries (no source code). Free for non-commercial use; see LICENSE.
+WhatyTerm is an AI coding session manager for Claude Code, Codex, Cursor, Kiro and other CLIs. This repository only hosts release binaries (no source code). Proprietary software, free for personal use; see the EULA at https://term.whaty.org/eula.html and the privacy policy at https://term.whaty.org/privacy.html.
